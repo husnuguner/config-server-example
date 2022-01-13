@@ -1,3 +1,3 @@
 microservices:
   googleService: www.google.com from test
-  piaService: pia-team.com from global application-*.yml refresh
+  piaService: pia-team.com from global application-*.yml refresh test auto
